@@ -2,3 +2,4 @@ this is the list of players for the team
 1. Babar Azam
 2. Shadab Khan
 3. Fakhar Zaman
+4. Shaheen Afridi
